@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huỳnh Quốc Bảo</h1>
-<h3 align="center">I'm a passionated frontend developer specializing in React, HTML, CSS, tailwind,Boostrap</h3>
+<h3 align="center">I'm a passionated frontend developer specializing in React, HTML, CSS, Tailwind, Boostrap</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huynhbao103" alt="huynhbao103" /></a> </p>
 
