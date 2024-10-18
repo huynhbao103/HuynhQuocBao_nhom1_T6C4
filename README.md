@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are availabe at [https://github.com/huynhbao103?tab=repositories](https://github.com/huynhbao103?tab=repositories)
 
-- 💬 Ask me about **react, HTML, CSS, Tailwind**
+- 💬 Ask me about **React, HTML, CSS, Tailwind**
 
 - 📫 How to reach me **huynhbao103@gmail.com**
 
