@@ -1,10 +1,13 @@
-# HuynhQuocBao_nhom1_T6ca3
 <h1 align="center">Hi 👋, I'm Huỳnh Quốc Bảo</h1>
 <h3 align="center">I'm a passionated frontend developer specializing in React, HTML, CSS, tailwind,Boostrap</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huynhbao103" alt="huynhbao103" /></a> </p>
 
 - 🔭 I’m currently working on [GlobeTrek](https://github.com/huynhbao103/GlobeTrek-)
 
 - 👯 I’m looking to collaborate on [GlobeTrek](https://github.com/nguyen-gia-khoi/GlobeTrek)
+
+- 👨‍💻 All of my projects are availabe at [https://github.com/huynhbao103?tab=repositories](https://github.com/huynhbao103?tab=repositories)
 
 - 💬 Ask me about **react, HTML, CSS, Tailwind**
 
@@ -23,4 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhbao103&show_icons=true&theme=dark&title_color=88e79b&text_color=f1acac&bg_color=000000&cache_seconds=1801&locale=en&layout=compact" alt="huynhbao103" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huynhbao103&show_icons=true&locale=en" alt="huynhbao103" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huynhbao103&show_icons=true&theme=dark&title_color=70ff88&text_color=ff9e9e&bg_color=000000&locale=en" alt="huynhbao103" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huynhbao103&" alt="huynhbao103" /></p>
